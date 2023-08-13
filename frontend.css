@@ -1,0 +1,26 @@
+body{
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 30px;
+    background-image: url("8f41ad56459239d6f7c76d13f5962e2e.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 45%;
+}
+.items{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#line{
+    display: flex;
+    flex-direction: column;
+    margin-right: 600px;
+}
+.order{
+    border: 5px solid rgb(225, 159, 225);
+    border-radius: 20px;
+    background-color: rgb(225, 159, 225);
+    margin-bottom: 50px;
+    text-decoration: none;
+    padding: 10px;
+}
